@@ -1,0 +1,11 @@
+app/models/story.rb f88ed96ecbc4d0537e200bcab84da1a06d5f4455
+app/models/section.rb 8a49cbca9b0ea49df976a4851d54eb75a2befa03
+app/models/relation.rb 1c39ca6a7762d8f2150b419a2c618e9148243c5f
+app/models/leadline.rb 2837803c1452019c58d9c649610affde91f90c38
+app/models/headline.rb 8e213247db3a46d24a5163ba7b96d76d340d651d
+app/models/position.rb 2a41db2ed9fb1d523f2321a7023a31acc786a615
+app/models/citation.rb 6c72f78ec9931b54348f11d4e324b78764898a4f
+app/models/quote_content.rb 2d2663e4513123744820bf95a6aed1e386216527
+app/models/simple_content.rb c810ef92e8cbb9279c6a62022710fcde248dce51
+app/helpers/application_helper.rb eef3d3adce96afe8b14c19b6135323f47543d979
+app/controllers/application_controller.rb 7afa8bd02d2c49fd8df3c6e372b8520c9f916e8e

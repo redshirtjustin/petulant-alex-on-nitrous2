@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  subject: MyString
+  active_headline_id: 1
+  active_leadline_id: 1
+  section_id: 
+
+two:
+  subject: MyString
+  active_headline_id: 1
+  active_leadline_id: 1
+  section_id: 
